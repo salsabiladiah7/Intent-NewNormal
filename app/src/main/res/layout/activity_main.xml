@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAF8F0"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/judul"
+        android:textColor="#333333"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/btn_jaga_diri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25sp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="#FDD47E"
+        android:text="@string/ayo_jaga_diri"
+        android:textColor="#333333"
+        android:textSize="18sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btn_cuci_tangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="#fdd47e"
+        android:text="@string/cuci_tangan_dengan_benar"
+        android:textColor="#333333"
+        android:textSize="18sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btn_pakai_masker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="#fdd47e"
+        android:text="@string/menggunakan_masker"
+        android:textColor="#333333"
+        android:textSize="18sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btn_pola_hidup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="#fdd47e"
+        android:text="@string/pola_hidup_sehat"
+        android:textColor="#333333"
+        android:textSize="18sp"
+        android:typeface="monospace" />
+
+
+</LinearLayout>

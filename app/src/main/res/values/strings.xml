@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">New Normal</string>
+    <string name="judul">NEW NORMAL LIFESTYLE</string>
+    <string name="ayo_jaga_diri">Ayo Jaga Diri!</string>
+    <string name="cuci_tangan_dengan_benar">Cuci Tangan Dengan Benar</string>
+    <string name="menggunakan_masker">Menggunakan Masker</string>
+    <string name="pola_hidup_sehat">Pola Hidup Sehat</string>
+    <string name="tips_jaga_diri_selama_new_normal">Tips Jaga Diri Selama New Normal</string>
+    <string name="_1_mencuci_tangan_sebelum_dan_sesudah_melakukan_kontak_fisik">1. Mencuci tangan sebelum dan sesudah melakukan kontak fisik.</string>
+    <string name="_2_sedia_tisu_basah_atau_hand_sanitizer">2. Sedia tisu basah atau hand sanitizer</string>
+    <string name="_3_hindari_menyentuh_wajah_terlalu_sering_who_menyebutkan_virus_corona_bisa_masuk_ke_tubuh_manusia_melalui_mulut_hidung_dan_mata">3. Hindari menyentuh wajah terlalu sering. WHO menyebutkan virus corona bisa masuk ke tubuh manusia melalui mulut, hidung, dan mata.</string>
+    <string name="_4_menggunakan_masker_saat_beraktivitas_di_luar_rumah">4. Menggunakan masker saat beraktivitas di luar rumah.</string>
+    <string name="_5_konsumsi_makanan_yang_bergizi">5. Konsumsi makanan yang bergizi</string>
+    <string name="_6_konsumsi_vitamin_yang_dapat_meningkatkan_metabolisme_tubuh">6. Konsumsi vitamin yang dapat meningkatkan metabolisme tubuh.</string>
+    <string name="_7_bawa_alat_makan_pribadi_saat_sedang_makan_di_luar">7. Bawa alat makan pribadi saat sedang makan di luar.</string>
+    <string name="_8_menerapkan_sosial_distancing">8. Menerapkan sosial distancing.</string>
+    <string name="_9_hindari_menggunakan_transportasi_umum">9. Hindari menggunakan transportasi umum.</string>
+    <string name="langkah_langkah_mencuci_tangan">Langkah-Langkah Mencuci Tangan</string>
+    <string name="_1_basahi_tangan_dengan_air_mengalir_yang_bersih_dan_hangat">1. Basahi tangan dengan air mengalir yang bersih dan hangat</string>
+    <string name="_2_pakai_sejumlah_kecil_sabun">2. Pakai sejumlah kecil sabun</string>
+    <string name="_3_gosok_telapak_tangan_bersamaan_jauh_dari_air">3. Gosok telapak tangan bersamaan, jauh dari air</string>
+    <string name="_4_gosok_jemari_dan_jempol_dan_kulit_di_sela_sela">4. Gosok jemari dan jempol dan kulit di sela-sela</string>
+    <string name="_5_bersihkan_telapak_tangan_anda_dengan_kuku_anda">5. Bersihkan telapak tangan Anda dengan kuku Anda</string>
+    <string name="_6_gosok_bagian_belakang_setiap_tangan">6. Gosok bagian belakang setiap tangan</string>
+    <string name="_7_cuci_dengan_air_bersih_mengalir">7. Cuci dengan air bersih mengalir</string>
+    <string name="_8_keringkan_dengan_handuk_atau_tisu_yang_bersih">8.Keringkan dengan handuk atau tisu yang bersih</string>
+    <string name="langkah_sederhana_memulai_hidup_sehat">Langkah Sederhana Memulai Hidup Sehat</string>
+    <string name="_1_hindari_stress_n_saat_merasa_stres_semua_sistem_dalam_tubuh_akan_meresponnya_dengan_cara_yang_berbeda_beda_stres_yang_bersifat_kronis_dapat_berdampak_pada_kesehatan_secara_keseluruhan">1. Hindari Stress\n Saat merasa stres, semua sistem dalam tubuh akan meresponnya dengan cara yang berbeda-beda. Stres yang bersifat kronis dapat berdampak pada kesehatan secara keseluruhan.</string>
+    <string name="_2_menjaga_makan_n_apa_yang_kita_makan_tentu_akan_memengaruhi_bagaimana_tubuh_kita_bekerja_oleh_sebabnya_penting_untuk_memerhatikan_setiap_makanan_yang_dikonsumsi_setiap_hari">2. Menjaga Makan\n Apa yang kita makan tentu akan memengaruhi bagaimana tubuh kita bekerja. Oleh sebabnya, penting untuk memerhatikan setiap makanan yang dikonsumsi setiap hari.</string>
+    <string name="_3_olahraga_teratur_n_dengan_aktif_bergerak_tubuh_akan_berusaha_untuk_membakar_kalori_yang_mengendap_di_tubuh_hal_ini_juga_dapat_membantu_mengalirkan_lebih_banyak_oksigen_ke_dalam_sel_sel_tubuh_dan_menjaganya_tetap_sehat">3. Olahraga Teratur\n Dengan aktif bergerak, tubuh akan berusaha untuk membakar kalori yang mengendap di tubuh. Hal ini juga dapat membantu mengalirkan lebih banyak oksigen ke dalam sel-sel tubuh dan menjaganya tetap sehat</string>
+    <string name="_4_kurangi_konsumsi_gula_berlebih_n_asupan_gula_yang_terlalu_banyak_dapat_memicu_penyakit_diabetes_jika_sudah_terkena_diabetes_maka_akan_lebih_rentan_terkena_berbagai_penyakit_kronis_di_kemudian_hari_seperti_penyakit_jantung_dan_stroke">4. Kurangi Konsumsi Gula Berlebih\n Asupan gula yang terlalu banyak dapat memicu penyakit diabetes. Jika sudah terkena diabetes, maka akan lebih rentan terkena berbagai penyakit kronis di kemudian hari seperti penyakit jantung dan stroke.</string>
+    <string name="_5_banyak_minum_air_putih_dan_kurangi_minuman_bersoda">5. Banyak Minum Air Putih dan Kurangi Minuman Bersoda</string>
+    <string name="_6_cukup_tidur_n_tidur_menjadi_sebuah_fondasi_di_mana_pikiran_dan_tubuh_yang_sehat_terbentuk_jika_fondasi_ini_goyah_tentunya_akan_berdampak_pada_kesehatan">6. Cukup Tidur\n Tidur menjadi sebuah fondasi di mana pikiran dan tubuh yang sehat terbentuk. Jika fondasi ini goyah, tentunya akan berdampak pada kesehatan.</string>
+</resources>
